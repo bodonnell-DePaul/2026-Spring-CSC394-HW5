@@ -1,6 +1,6 @@
-# Homework 4: Authenticated Persistent Full-Stack App
+# Homework 5: Authenticated Persistent Full-Stack App
 
-**CSC 436 - Web Applications - DePaul University**
+**Web Applications - DePaul University**
 
 **Due: Wednesday 5/6 @ 11:59pm**
 
